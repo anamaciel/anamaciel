@@ -1,6 +1,9 @@
 ### Hi there 👋
-I'm Ana, phD candidate in the Computer Science Department at the State University of Maringa, Brasil. My research focusses on Impact of GitHub Discussions in OSS projects. If you wanna know more reach me out. :)
+
+I'm Ana, phD candidate in the Computer Science Department at the State University of Maringa, Brasil. My research focusses on Impact of GitHub Discussions in OSS projects. If you wanna know more reach me out. ☺️
+
 📫 How to reach me: anacm.maciel@gmail.com
+
 😄 Pronouns: she/her
 
 
